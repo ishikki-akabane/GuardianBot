@@ -21,18 +21,18 @@ git clone https://github.com/ishikki-akabane/GuardianBot.git
 cd GuardianBot
 ```
 - Install the required dependencies:
-´´´bash
+```bash
 pip install -r requirements.txt
-´´´
+```
 - Set up your Telegram Bot API token:
   - Create a new bot via BotFather on Telegram
   - Copy the API token
   - Add inside the config.py:
 
 - To run GuardianBot, execute the following command in your terminal:
-´´´bash
+```bash
 python -m bot
-´´´
+```
 - Make sure your webhook is properly set up as per Telehook's documentation.
 # Configuration
 Customize GuardianBot's behavior by modifying the config.py file. You can adjust spam detection thresholds, add custom word filters, and configure NSFW detection sensitivity.
