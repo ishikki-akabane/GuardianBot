@@ -1,5 +1,5 @@
 from flask import Flask, request
-from bot import TeleHook, BOT_TOKEN
+from bot import TeleHook, BOT_TOKEN, LOGGER
 import requests
 
 app = Flask(__name__)
@@ -10,6 +10,7 @@ def home_endpoint():
 
 @app.route('/webhook', methods=['POST'])
 def webhook_endpoint():
+    LOGGER.info('logging')
     try:
         update = request.get_json()
         TeleHook.process_update(update)      
