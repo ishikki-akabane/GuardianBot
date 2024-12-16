@@ -3,8 +3,8 @@ import os
 from telehook import TeleClient
 
 # Configure the bot token and webhook URL
-BOT_TOKEN = ""
-WEBHOOK_URL = ""
+BOT_TOKEN = "8186222249:AAEh0MnDoUYzKvo2p1J97JabgHsoIN6v9nE"
+WEBHOOK_URL = "https://pup-solid-publicly.ngrok-free.app/webhook"
 
 # Initialize TeleHook with the plugins folder
 TeleHook = TeleClient(
