@@ -35,7 +35,7 @@ python -m bot
 ```
 - Make sure your webhook is properly set up as per Telehook's documentation.
 # Configuration
-Customize GuardianBot's behavior by modifying the config.py file. You can adjust spam detection thresholds, add custom word filters, and configure NSFW detection sensitivity.
+Customize GuardianBot's behavior by modifying the `config.py` file. You can adjust spam detection thresholds, add custom word filters, and configure NSFW detection sensitivity.
 
 # Contributing
 We welcome contributions to GuardianBot! Please read our CONTRIBUTING.md file for guidelines on how to submit pull requests, report issues, and suggest improvements.
