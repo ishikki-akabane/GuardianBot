@@ -40,10 +40,9 @@ Customize GuardianBot's behavior by modifying the config.py file. You can adjust
 # Contributing
 We welcome contributions to GuardianBot! Please read our CONTRIBUTING.md file for guidelines on how to submit pull requests, report issues, and suggest improvements.
 # License
-GuardianBot is released under the MIT License. See the LICENSE file for more details.
+GuardianBot is released under the Apache-2.0 license. See the LICENSE file for more details.
 # Support
-For support, questions, or feature requests, please open an issue on the GitHub repository or join our Telegram support group at [link to support group].
+For support, questions, or feature requests, please open an issue on the GitHub repository or join our Telegram support group at [EchoCoreSupport](https://t.me/EchoCoreSupport).
 # Acknowledgements
-Thanks to ishikki-akabane for creating the Telehook library.
-Special thanks to all contributors and the open-source community.
+Thanks to all contributors and the open-source community.
 Protect your Telegram groups with GuardianBot - because a safe community is a thriving community!
