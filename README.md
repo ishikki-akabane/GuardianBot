@@ -16,10 +16,10 @@ GuardianBot is a powerful, open-source Telegram bot that helps administrators ma
 # Installation
 ### VPS/Terminal
 - Clone the repository:
-´´´bash
-git clone https://github.com/yourusername/GuardianBot.git
+```bash
+git clone https://github.com/ishikki-akabane/GuardianBot.git
 cd GuardianBot
-´´´
+```
 - Install the required dependencies:
 ´´´bash
 pip install -r requirements.txt
